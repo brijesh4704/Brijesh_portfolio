@@ -15,7 +15,7 @@ const ContactSection: React.FC = () => {
         <Section className={'relative z-20 min-h-screen flex items-center max-mobile-lg:min-h-auto max-mobile-lg:py-8'}>
             <div className="text-center py-10 mobile-lg:w-9/12 mx-auto max-mobile-lg:py-6 max-mobile-lg:px-4">
                 <h1 className="max-mobile-lg:text-2xl">
-    Let's Connect
+    Let&apos;s connect
 </h1>
 
 <p className="max-mobile-lg:text-sm max-mobile-xs:text-xs">
