@@ -1,0 +1,4 @@
+packages:
+  - 'portfolio-frontend'
+  - 'portfolio-backend'
+  - 'portfolio-admin' 

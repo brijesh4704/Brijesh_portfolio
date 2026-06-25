@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-main",
+  "version": "1.0.0",
+  "description": "Portfolio project with frontend, backend, and admin",
+  "private": true,
+  "scripts": {
+    "build": "npm run build"
+  }
+} 
